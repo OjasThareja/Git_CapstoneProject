@@ -1,5 +1,5 @@
 @tag
-Feature: Medicare UI Testing Scenario
+Feature: Medicare API Testing Scenario
 
   @tag8
   Scenario: GET List of All Products using Rest
