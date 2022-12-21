@@ -1,5 +1,5 @@
 @tag
-Feature: Medicare UI Testing Scenario
+Feature: Medicare DB Testing Scenario
 
   @tag6
   Scenario: Validate that records updated in DB are updated on UI as well
